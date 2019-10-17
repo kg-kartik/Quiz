@@ -32,7 +32,7 @@ int main(){
     ifstream qpp2;
     ofstream qpp3;
     init:
-    system("clear");
+    clrscr();
     cout<<"\n\n";
     cout<<"  .g8\"\"8q.   `7MMF'   `7MF'  `7MMF'  MMM\"\"\"AMV\n";                    
     cout<<".dP'    `YM.   MM       M      MM    M'   AMV\n";                     
